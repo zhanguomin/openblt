@@ -1,0 +1,14 @@
+..\bin\backdoor.o: ..\..\..\..\Source\backdoor.c
+..\bin\backdoor.o: ..\..\..\..\Source\boot.h
+..\bin\backdoor.o: ..\..\..\..\Source\ARMCM0_STM32F0\types.h
+..\bin\backdoor.o: ..\..\..\..\Source\assert.h
+..\bin\backdoor.o: ..\..\Boot\blt_conf.h
+..\bin\backdoor.o: ..\..\..\..\Source\plausibility.h
+..\bin\backdoor.o: ..\..\..\..\Source\cpu.h
+..\bin\backdoor.o: ..\..\..\..\Source\cop.h
+..\bin\backdoor.o: ..\..\..\..\Source\nvm.h
+..\bin\backdoor.o: ..\..\..\..\Source\timer.h
+..\bin\backdoor.o: ..\..\..\..\Source\backdoor.h
+..\bin\backdoor.o: ..\..\..\..\Source\file.h
+..\bin\backdoor.o: ..\..\..\..\Source\com.h
+..\bin\backdoor.o: ..\..\..\..\Source\xcp.h

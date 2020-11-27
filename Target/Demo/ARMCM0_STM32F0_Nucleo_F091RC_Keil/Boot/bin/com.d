@@ -1,0 +1,16 @@
+..\bin\com.o: ..\..\..\..\Source\com.c
+..\bin\com.o: ..\..\..\..\Source\boot.h
+..\bin\com.o: ..\..\..\..\Source\ARMCM0_STM32F0\types.h
+..\bin\com.o: ..\..\..\..\Source\assert.h
+..\bin\com.o: ..\..\Boot\blt_conf.h
+..\bin\com.o: ..\..\..\..\Source\plausibility.h
+..\bin\com.o: ..\..\..\..\Source\cpu.h
+..\bin\com.o: ..\..\..\..\Source\cop.h
+..\bin\com.o: ..\..\..\..\Source\nvm.h
+..\bin\com.o: ..\..\..\..\Source\timer.h
+..\bin\com.o: ..\..\..\..\Source\backdoor.h
+..\bin\com.o: ..\..\..\..\Source\file.h
+..\bin\com.o: ..\..\..\..\Source\com.h
+..\bin\com.o: ..\..\..\..\Source\xcp.h
+..\bin\com.o: ..\..\..\..\Source\can.h
+..\bin\com.o: ..\..\..\..\Source\rs232.h

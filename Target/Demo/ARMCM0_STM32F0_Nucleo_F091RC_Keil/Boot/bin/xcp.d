@@ -1,0 +1,14 @@
+..\bin\xcp.o: ..\..\..\..\Source\xcp.c
+..\bin\xcp.o: ..\..\..\..\Source\boot.h
+..\bin\xcp.o: ..\..\..\..\Source\ARMCM0_STM32F0\types.h
+..\bin\xcp.o: ..\..\..\..\Source\assert.h
+..\bin\xcp.o: ..\..\Boot\blt_conf.h
+..\bin\xcp.o: ..\..\..\..\Source\plausibility.h
+..\bin\xcp.o: ..\..\..\..\Source\cpu.h
+..\bin\xcp.o: ..\..\..\..\Source\cop.h
+..\bin\xcp.o: ..\..\..\..\Source\nvm.h
+..\bin\xcp.o: ..\..\..\..\Source\timer.h
+..\bin\xcp.o: ..\..\..\..\Source\backdoor.h
+..\bin\xcp.o: ..\..\..\..\Source\file.h
+..\bin\xcp.o: ..\..\..\..\Source\com.h
+..\bin\xcp.o: ..\..\..\..\Source\xcp.h

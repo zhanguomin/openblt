@@ -1,0 +1,16 @@
+..\bin\file.o: ..\..\..\..\Source\file.c
+..\bin\file.o: ..\..\..\..\Source\boot.h
+..\bin\file.o: ..\..\..\..\Source\ARMCM0_STM32F0\types.h
+..\bin\file.o: ..\..\..\..\Source\assert.h
+..\bin\file.o: ..\..\Boot\blt_conf.h
+..\bin\file.o: ..\..\..\..\Source\plausibility.h
+..\bin\file.o: ..\..\..\..\Source\cpu.h
+..\bin\file.o: ..\..\..\..\Source\cop.h
+..\bin\file.o: ..\..\..\..\Source\nvm.h
+..\bin\file.o: ..\..\..\..\Source\timer.h
+..\bin\file.o: ..\..\..\..\Source\backdoor.h
+..\bin\file.o: ..\..\..\..\Source\file.h
+..\bin\file.o: ..\..\..\..\Source\com.h
+..\bin\file.o: ..\..\..\..\Source\xcp.h
+..\bin\file.o: e:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\bin\file.o: e:\Keil_v5\ARM\ARMCC\Bin\..\include\ctype.h

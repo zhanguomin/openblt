@@ -1,0 +1,14 @@
+..\bin\net.o: ..\..\..\..\Source\net.c
+..\bin\net.o: ..\..\..\..\Source\boot.h
+..\bin\net.o: ..\..\..\..\Source\ARMCM0_STM32F0\types.h
+..\bin\net.o: ..\..\..\..\Source\assert.h
+..\bin\net.o: ..\..\Boot\blt_conf.h
+..\bin\net.o: ..\..\..\..\Source\plausibility.h
+..\bin\net.o: ..\..\..\..\Source\cpu.h
+..\bin\net.o: ..\..\..\..\Source\cop.h
+..\bin\net.o: ..\..\..\..\Source\nvm.h
+..\bin\net.o: ..\..\..\..\Source\timer.h
+..\bin\net.o: ..\..\..\..\Source\backdoor.h
+..\bin\net.o: ..\..\..\..\Source\file.h
+..\bin\net.o: ..\..\..\..\Source\com.h
+..\bin\net.o: ..\..\..\..\Source\xcp.h
